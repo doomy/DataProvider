@@ -1,6 +1,6 @@
 {
-    "name": "doomy/entitycache",
-    "version": "1.0.0",
+    "name": "doomy/dataprovider",
+    "version": "1.0.1",
     "autoload": {
       "classmap": ["src/"]
     },
